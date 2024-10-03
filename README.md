@@ -23,7 +23,7 @@
 
 - Interface
 - Components
-- Models
+- Repository
 
 
 ## :gear: Architecture
