@@ -1,40 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Crud users 🤵</h1>
+<p align="center">
+  
+</p>
 
-## Getting Started
+</br>
+<p align="center">
+  <a href="#globe_with_meridians-Technologies-and-Concepts-Implemented">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#gear-Architecture">Architecture</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-How-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-Licence">Licence</a>
+</p>
 
-First, run the development server:
+## :globe_with_meridians: Technologies and Concepts Implemented
+
+- React JS
+- Next JS
+- TypeScript
+
+- Firebase
+- Tailwindcss
+- Hooks
+
+- Interface
+- Components
+- Models
+
+
+## :gear: Architecture
+![{F0F7EB3B-264C-4F2C-8284-11D8D130797F}](https://github.com/user-attachments/assets/b9a39fad-2d45-4d8b-86e9-9da05f0865ab)
+
+
+## :wrench: How to use
+
+Clone that application using [Git](https://git-scm.com) and follow the next steps:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# 1. Clone this repository
+$ git clone https://github.com/heberGustavo/crud-users.git
+
+# 2. Open the project in Visual Studio Code
+
+# 3. FIREBASE: It's necessary create and config file ".env.local". The 'key' are: NEXT_PUBLIC_FIREBASE_API_KEY, NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN and NEXT_PUBLIC_FIREBASE_PROJECT_ID
+
+# 4. In Terminal, type:
+  4.1 - npm install
+  4.2 - npm run dev
+
+# 5. Open the application in browser
+
+# 6. It's running 
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## :memo: Licence 
+This project is under the MIT license. See the [LICENSE](https://github.com/heberGustavo/crud-users/blob/master/LICENSE) for more information.
